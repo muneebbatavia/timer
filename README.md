@@ -1,2 +1,2 @@
-# timer
+# Timer App
 Internship at Bryt

@@ -1,10 +1,24 @@
 # Timer App
-It's a web app that runs countdown timer for the entered seconds.
+___
+A web app that countdowns in seconds. It countdowns for the seconds you input in the textbox.
 
-# Getting Started
-You will be needing npm to run this app on your browser\
-Open the code in your local editor\
-Run, npm start on console\
-Or Open a browser and navigate to localhost:3000
+## Prerequisite
+___
+TImer App is a React build - app
 
-After making any change in the code ( App.js OR Countdown.js ) , refresh your browser for the changes to take place.
+## Development
+___
+To run the code you need to follow these steps
+
+    npm install
+    npm start
+    
+After that, access the site at localhost:3000
+
+### Contributing
+___
+Pull requests and stars are always welcome. For bugs and feature requests, please create an issue
+
+### Author
+____
+Muneeb Altaf
